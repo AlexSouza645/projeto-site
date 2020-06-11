@@ -4,11 +4,13 @@
     font-size: 16px;
 }
 body{
-    background-color: rgb(161, 74, 243);
+    background-color: rgb(143, 92, 192);
 }
 main {
     background-color: white;
     width: 500px;
-    padding: 10px;
+    padding: 50px;
     box-shadow: 3px 3px 5px black ;
+    margin-left: 200px;
+    
 }
